@@ -1,5 +1,5 @@
-# kickstarter_analysis
-Overview of Project:
+# Kickstarting with Excel
+## Overview of Project:
 This project is comprised of 3 "Deliverables"
 The first deliverable is to create a chart that displays Outcomes Based on Launch Date. This task allows the user to visualize the successful, failed and canceled campaign outcomes.
 This exercise also allows the user to manipulate and filter the data using pivot tables and a wide range of  built in excel functions. In doing this each user creates a Kickstarter_Challenge.xlsx
@@ -18,15 +18,29 @@ the sets of data. For each of the first two deliverables the user saves the char
 The third deliverable is a basic summary of the kickstarter challenge. The task is to summerize the challenge in the REAME.md file on GITHUB. The written analysis is comprised of three sections, Project Overview, Analysis and
 Challenges, and a Results Section.
 
-Analysis and Challenges:
+### Purpose
 
+##  Analysis and Challenges:
+
+### Analysis of Outcomes Based on Launch Date
 
 <img width="240" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/104540261/171261171-a850ab48-5319-4909-a642-cd4666a06519.png">
+
+### Analysis of Outcomes Based on Goals
 
 <img width="636" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/104540261/171261566-2cb90bd0-20ed-4bd8-bc22-12f7e27bc86d.png">
 
 
-Results:
+### Challenges and Difficulties Encountered
+
+
+
+
+
+
+
+## Results:
+
 What are two conclusions you can draw about the Theater Outcomes by Launch Date? Although the successful data shows more pronounced peaks and troughs, the successful outcomes data
 and the failed outcomes data seems to exhibit a similar trend. This would lead me to believe that there is another influential factor that effects both the rates of success and failures on a month by month bases.
 If there is a seasonal effect there are more total Outcomes in warmer months than colder months. People show more interest in going to the theater when it is warm.
