@@ -39,6 +39,8 @@ Here the graph shows the Outcome data compared to a range of goals. It breaks th
 
 ### Challenges and Difficulties Encountered
 
+The main challenges of this analysis were getting used to the new functions and knowing when to use the newly aquired skills to format the data appropriately for the disired result. Although I considered myself somewhat of a moderate excel user I found that the biggest amount of time I spent on creating the graphs was figuring out how to label the series on the x axsis correctly which is frankly a little embaressing.
+
 
 
 
