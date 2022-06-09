@@ -20,13 +20,19 @@ Challenges, and a Results Section.
 
 ### Purpose
 
+The purpose of the analysis was to examine the relationship between to sets of data. The first analysis looks at outcomes compared to the launch dates. The second analysis looks at outcomes based on goals. By graphing both sets of data we are able to visualize and interpret the data to fully understand the relationships between the two if any.
+
 ##  Analysis and Challenges:
 
 ### Analysis of Outcomes Based on Launch Date
 
+Here the graph shows the Outcome data over a 12 month range. It breaks the data sets into failures, successes, and cancellations. The graph also shows how each rate changes from month to month. You can see how the success data trends in a similar way with the failures. This seems logical because the summation of the two sets equals the total of of the data.
+
 <img width="240" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/104540261/171261171-a850ab48-5319-4909-a642-cd4666a06519.png">
 
 ### Analysis of Outcomes Based on Goals
+
+Here the graph shows the Outcome data compared to a range of goals. It breaks the data sets into failures, successes, and cancellations. The graph also shows how each rate changes from a range of goals. You can see how the success data trends in an inverse manner compared to failures. This seems logical because as the goal's dollar amount becomes higher you sucess rate drops and you failure rate increase.
 
 <img width="636" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/104540261/171261566-2cb90bd0-20ed-4bd8-bc22-12f7e27bc86d.png">
 
